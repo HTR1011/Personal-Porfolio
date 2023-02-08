@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size:x-large;
+}
+
+h1 {
+    width: 50%; 
+    margin: 50px auto;
+    font-family: 'Sacramento', cursive;
+    white-space: nowrap;
+    font-size: 8rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #3d5858;
+    font-weight: normal;
+    font-family: 'Sacramento', cursive;
+    padding-top: 20px;
+}
+
+h3 {
+    color:  #11999E;
+}
+
+
+
+/*----------------- */
+.title {
+    margin-top: 60px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+
+}
+
+
+
+/* ------------- */
+button span {
+    font-size: 1.4rem;
+}
+
+button {
+    margin: 20px 50px;
+}
+
+
+
+

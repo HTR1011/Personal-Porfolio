@@ -1,0 +1,167 @@
+/* #11999E */
+body {
+    background-image: url("C:/Users/haotr/OneDrive/Desktop/FrontEnd Project/Portfolio_site/images/project-bg.jpg");
+    backdrop-filter: blur(8px) brightness(50%);
+
+} 
+
+/*Top and home option */
+/* .home-option{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+}
+
+.top-option{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    text-decoration: none;
+} */
+
+/*For nav bar only*/
+.navbar-edit {
+    background-color: #11999E;
+    text-align: center;
+}
+
+.navbar-edit a {
+    color: white;
+}
+
+#abme {
+    color: white;
+}
+
+#name {
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+}
+
+
+/* Heading */
+.heading {
+    color:#fff;
+    margin: 50px auto 0 auto; 
+    font-family: 'Sacramento', cursive;
+    font-size : 7.625rem;
+    width: 80%;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: #11999E 1px 0 10px;
+}
+
+
+/* Mid container & first row cards --- --- --- */
+
+.project-border {
+    border-width: 3px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+
+
+
+.title {
+    text-align: center;
+    color: #11999E;
+    padding-top: 30px;
+}
+
+.project-mid {
+    margin: 100px auto;
+    width: 80%;
+    margin: auto;
+}
+
+
+/* For images affect only --- ---*/
+.project-ancher {
+    background-color: black;
+    width: 90%;
+    height: 300px;
+    display: block;
+    margin-top: 20px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.project-ancher img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.project-ancher h2 {
+    color: white;
+    text-align: center;
+    position: relative;
+
+    opacity: 0;
+
+    bottom: 190px;
+}
+
+.project-ancher:hover {
+    filter: blur(6px);
+    transition: 0.5s ease-in-out;
+}
+
+
+.description {
+    font-size: 1.2rem;
+    padding-left: 45px;
+}
+
+.project-ancher h2:hover {
+    visibility: visible;
+}
+
+/* For second row cards --- ---- ---*/
+.row2 {
+    padding-top: 50px;
+}
+
+.project-border2 {
+    border-width: 3px;
+    border-radius: 30px;
+    width: 66%;
+}
+
+@media (min-width: 1028px) {
+    .left-card {
+        position:relative;
+        left: 280px;
+    }
+
+    .right-card {
+        position:relative;
+    }
+}
+
+@media (max-width: 1028px) {
+    .left-card {
+        width: 100%;
+        
+    }
+
+    .right-card {
+        width: 100%;
+        /* position: relative;
+        right: 50px; */
+    }
+
+    .right-col {
+        margin-top: 50px;
+
+    }
+
+}
+    
+

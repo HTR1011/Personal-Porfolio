@@ -1,0 +1,89 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriwather', serif;
+}
+
+
+
+hr {
+    border-style: dotted none none none;
+    border-color: #11999E ;
+    width: 4%;
+    height: 0px;
+    border-width: 5px;
+    margin: 100px auto;
+}
+
+
+
+h2{
+    font-family: 'Sacramento', sans-serif;
+    font-size: 3.5rem;
+    color: #ffffff;
+    font-weight: heavy;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 2rem;
+}
+
+.aboutMe{
+    color:#11999E;
+    margin: 50px auto 0 auto; 
+    font-family: 'Sacramento', cursive;
+    font-size : 7.625rem;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill-row:hover{
+    color:#11999E;
+}
+
+.skill-logo{
+    width:15%;
+    float:left;
+    margin-right: 30px;
+}
+
+.skill-logo2{
+    width:15%;
+    float:left;
+    margin-right: 30px
+}
+
+.skill-logo3{
+    width:15%;
+    float:left;
+    margin-right: 30px;
+}
+
+.skill-description1{
+    font-size: 1.5rem;
+    margin-left: 170px;
+}
+
+.skill-description2{
+    font-size: 1.5rem;
+    margin-left: 170px;
+}
+
+.skill-description3{
+    font-size: 1.5rem;
+    margin-left: 170px;
+}
+.skill-description4{
+    font-size: 1.5rem;
+    margin-left: 170px;
+}
+
